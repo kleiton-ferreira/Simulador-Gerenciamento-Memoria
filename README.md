@@ -19,8 +19,11 @@ O simulador mostra o estado da memória após cada alocação e liberação de p
 ## 📂 Estrutura do projeto
 📦 simulador-memoria
  -📜 memoria.py / Classe Memoria: gerencia blocos e processos
+ 
  -📜 algoritmos.py / Implementação dos algoritmos First Fit, Best Fit e Worst Fit
+ 
  -📜 main.py / Script principal para rodar a simulação
+ 
  -📜 README.md / Documentação do projeto
  
 ## ▶️ Como rodar o projeto
