@@ -26,8 +26,6 @@ O simulador mostra o estado da memória após cada alocação e liberação de p
 ## ▶️ Como rodar o projeto
 
 - Clone o repositório
-git clone https://github.com/seu-usuario/Simulador-Gerenciamento-Memoria.git
-cd Simulador-Gerenciamento-Memoria
 - Instale o Python e o Pycharm
 - Abra o projeto no Pycharm
 - Execute o arquivo "main.py"
